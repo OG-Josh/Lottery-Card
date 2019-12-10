@@ -1,0 +1,18 @@
+Script started on Sat 16 Feb 2019 02:52:47 PM PST
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW05[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW05 $[00m c[Kdate
+Sat Feb 16 14:52:51 PST 2019
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW05[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW05 $[00m ls -l
+total 124
+-rwxrwxr-x 1 cs1c cs1c 107672 Feb 16 14:51 [0m[01;32mhw05[0m
+-rw-rw-r-- 1 cs1c cs1c   2608 Feb 16 14:12 HW5.cpp
+-rw-rw-r-- 1 cs1c cs1c      0 Feb 16 14:52 HW5.scr
+-rw-rw-r-- 1 cs1c cs1c    116 Feb 16 14:50 Makefile
+-rw-rw-r-- 1 cs1c cs1c   4477 Feb 15 18:55 STLVector.txt
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW05[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW05 $[00m make all
+g++ -g -Wall HW5.cpp -o hw05
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW05[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW05 $[00m c[K/[K./hw05
+The Winners: 1 8 13 16 35 37 
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW05[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW05 $[00m exit
+exit
+
+Script done on Sat 16 Feb 2019 02:53:07 PM PST
